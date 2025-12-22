@@ -46,7 +46,7 @@ VS Code (recommended)
 
 ⚙️ Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/typescript-tutorial.git
+git clone https://github.com/iamdebrajghosh/TypeScript_tuitorial
 cd typescript-tutorial
 
 2️⃣ Install TypeScript
